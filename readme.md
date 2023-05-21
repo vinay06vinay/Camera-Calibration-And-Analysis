@@ -1,12 +1,15 @@
 
-
-##Instructions for Problem1.py : 
+# Introduction : 
+Camera calibration is the process of estimating the intrinsic and extrinsic parameters of
+the camera. Using these parameters the transformation from world frame to camera image
+plane frame becomes simple
+## Instructions for Problem1.py : 
 1. After unzipping the file, please open Problem1.py file using VSCode or any Python IDE such as Spyder. 
 2. Install necessary libraries such as opencv, numpy, matplotlib if unavailable on the system.
 3. Run the script.
 4. Different results calculated such as Projection matrix, Intrinsic and extrinsic parameters are displayed on the console
 
-##Instructions for Problem2.py: 
+## Instructions for Problem2.py: 
 1. After unzipping the file, please open Problem2.py  file using VSCode or any Python IDE such as Spyder. 
 2. Before running the file please make sure the 13 image files are in inside the folder "Calibration_Imgs" as this script requires the directory of this folder.
 3. Install necessary libraries such as opencv, numpy, matplotlib if unavailable on the system.
